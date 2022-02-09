@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "V/r0A+cORtD/QwNZhQ6Xq8W7ob6KOoOUrW8BrBlWaMqhrhQw5QbM+9ERfm40kPh6b8pqZlpDCsHsD3Tb9EVdag==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dills\\Desktop\\Functions\\Parser\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dills\\.nuget\\packages\\csvhelper\\27.2.1\\csvhelper.27.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}
